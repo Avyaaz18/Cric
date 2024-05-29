@@ -7,7 +7,7 @@ description: "Profile of Eoin Morgan"
 
 ## Player Profile
 
-![Eoin Morgan](/static/images/em.jpg)
+![Eoin Morgan](/images/em.jpg)
 
 <table>
   <tr>
