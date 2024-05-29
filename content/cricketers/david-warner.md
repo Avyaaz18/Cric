@@ -7,7 +7,7 @@ description: "Profile of David Warner"
 
 ## Player Profile
 
-![David Warner](/static/images/dw.jpg)
+![David Warner](/images/dw.jpg)
 
 <table>
   <tr>
