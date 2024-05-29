@@ -7,7 +7,7 @@ description: "Profile of Adam Gilchrist"
 
 ## Player Profile
 
-![Adam Gilchrist](/static/images/ag.jpg)
+![Adam Gilchrist](/images/ag.jpg)
 
 <table>
   <tr>
