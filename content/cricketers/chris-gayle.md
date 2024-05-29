@@ -7,7 +7,7 @@ description: "Profile of Chris gayle"
 
 ## Player Profile
 
-![Chris Gayle](/static/images/cg.jpg)
+![Chris Gayle](/images/cg.jpg)
 
 <table>
   <tr>
