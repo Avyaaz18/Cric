@@ -3,7 +3,7 @@ title: "Virat Kohli"
 description: "Profile of Virat Kohli"
 ---
 
-<img src="/images/vk.jpg" alt="Virat Kohli" style="width:50%;">
+![Virat Kohli](/images/vk.jpg)
 
 <table>
   <tr>
