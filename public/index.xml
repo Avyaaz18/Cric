@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cricket Info :: My New Hugo Site</title>
+    <link>http://localhost:1313/index.html</link>
+    <description>Welcome to Cricket Info Here you can find information about various cricketers. Click on a name to view their profile.&#xA;Special Mention guys!!! 👇👇👇 Please click here to view profile of Greatest Player of All Time&#xA;Cricketers Adam Gilchrist Brian Lara Chris Gayle David Warner Eoin Morgan Faf du Plessis Glenn Maxwell Heinrich Klaasen Ian Botham Jacques Kallis Kane Williamson Lasith Malinga Muttiah Muralitharan Nathan Lyon Obed Mc Coy Pat Cummins Quinton de Kock Ricky Ponting Sachin Tendulkar Umar Gul Viv Richards Waqar Younis Yuvraj Singh Zaheer Khan Feel free to explore and learn more about your favorite cricketers!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/cricket-info/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricket-info/index.html</guid>
+      <description>About Us Page</description>
+    </item>
+    <item>
+      <title>Cricketers</title>
+      <link>http://localhost:1313/cricketers/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/index.html</guid>
+      <description>Profiles</description>
+    </item>
+  </channel>
+</rss>

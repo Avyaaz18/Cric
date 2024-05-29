@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cricketers :: My New Hugo Site</title>
+    <link>http://localhost:1313/cricketers/index.html</link>
+    <description>Profiles</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/cricketers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adam Gilchrist</title>
+      <link>http://localhost:1313/cricketers/adam-gilchrist/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/adam-gilchrist/index.html</guid>
+      <description>Profile of Adam Gilchrist</description>
+    </item>
+    <item>
+      <title>Brian Lara</title>
+      <link>http://localhost:1313/cricketers/brian-lara/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/brian-lara/index.html</guid>
+      <description>Profile of Brian Lara</description>
+    </item>
+    <item>
+      <title>Chris Gayle</title>
+      <link>http://localhost:1313/cricketers/chris-gayle/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/chris-gayle/index.html</guid>
+      <description>Profile of Chris gayle</description>
+    </item>
+    <item>
+      <title>David Warner</title>
+      <link>http://localhost:1313/cricketers/david-warner/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/david-warner/index.html</guid>
+      <description>Profile of David Warner</description>
+    </item>
+    <item>
+      <title>Eoin Morgan</title>
+      <link>http://localhost:1313/cricketers/eoin-morgan/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/eoin-morgan/index.html</guid>
+      <description>Profile of Eoin Morgan</description>
+    </item>
+    <item>
+      <title>Faf du Plessis</title>
+      <link>http://localhost:1313/cricketers/faf-du-plessis/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/faf-du-plessis/index.html</guid>
+      <description>Profile of Faf du Plessis</description>
+    </item>
+    <item>
+      <title>Glenn Maxwell</title>
+      <link>http://localhost:1313/cricketers/glenn-maxwell/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/glenn-maxwell/index.html</guid>
+      <description>Profile of Glenn Maxwell</description>
+    </item>
+    <item>
+      <title>Heinrich Klaasen</title>
+      <link>http://localhost:1313/cricketers/heinrich-klaasen/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/heinrich-klaasen/index.html</guid>
+      <description>Profile of Heinrich Klaasen</description>
+    </item>
+    <item>
+      <title>Ian Botham</title>
+      <link>http://localhost:1313/cricketers/ian-botham/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/ian-botham/index.html</guid>
+      <description>Profile of Ian Botham</description>
+    </item>
+    <item>
+      <title>Jacques Kallis</title>
+      <link>http://localhost:1313/cricketers/jacques-kallis/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/jacques-kallis/index.html</guid>
+      <description>Profile of Jacques Kallis</description>
+    </item>
+    <item>
+      <title>Kane Williamson</title>
+      <link>http://localhost:1313/cricketers/kane-williamson/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/kane-williamson/index.html</guid>
+      <description>Profile of Kane Williamson</description>
+    </item>
+    <item>
+      <title>Lasith Malinga</title>
+      <link>http://localhost:1313/cricketers/lasith-malinga/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/lasith-malinga/index.html</guid>
+      <description>Profile of Lasith Malinga</description>
+    </item>
+    <item>
+      <title>Muthiah Muralidaran</title>
+      <link>http://localhost:1313/cricketers/muttiah-muralitharan/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/muttiah-muralitharan/index.html</guid>
+      <description>Profile of Muthiah Muralidaran</description>
+    </item>
+    <item>
+      <title>Nathan Lyon</title>
+      <link>http://localhost:1313/cricketers/nathan-lyon/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/nathan-lyon/index.html</guid>
+      <description>Profile of Nathan Lyon</description>
+    </item>
+    <item>
+      <title>Obed McCoy</title>
+      <link>http://localhost:1313/cricketers/obed-mc-coy/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/obed-mc-coy/index.html</guid>
+      <description>Profile of Obed McCoy</description>
+    </item>
+    <item>
+      <title>Pat Cummins</title>
+      <link>http://localhost:1313/cricketers/pat-cummins/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/pat-cummins/index.html</guid>
+      <description>Profile of Pat Cummins</description>
+    </item>
+    <item>
+      <title>Quinton de Kock</title>
+      <link>http://localhost:1313/cricketers/quinton-de-kock/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/quinton-de-kock/index.html</guid>
+      <description>Profile of Quinton de Kock</description>
+    </item>
+    <item>
+      <title>Ricky Ponting</title>
+      <link>http://localhost:1313/cricketers/ricky-ponting/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/ricky-ponting/index.html</guid>
+      <description>Profile of Ricky Ponting</description>
+    </item>
+    <item>
+      <title>Sachin Tendulkar</title>
+      <link>http://localhost:1313/cricketers/sachin-tendulkar/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/sachin-tendulkar/index.html</guid>
+      <description>Profile of Sachin Tendulkar</description>
+    </item>
+    <item>
+      <title>Umar Gul</title>
+      <link>http://localhost:1313/cricketers/umar-gul/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/umar-gul/index.html</guid>
+      <description>Profile of Umar Gul</description>
+    </item>
+    <item>
+      <title>Viv Richards</title>
+      <link>http://localhost:1313/cricketers/viv-richards/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/viv-richards/index.html</guid>
+      <description>Profile of Viv Richards</description>
+    </item>
+    <item>
+      <title>Waqar Younis</title>
+      <link>http://localhost:1313/cricketers/waqar-younis/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/waqar-younis/index.html</guid>
+      <description>Profile of Waqar Younis</description>
+    </item>
+    <item>
+      <title>Yuvraj Singh</title>
+      <link>http://localhost:1313/cricketers/yuvraj-singh/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/yuvraj-singh/index.html</guid>
+      <description>Profile of Yuvraj Singh</description>
+    </item>
+    <item>
+      <title>Zaheer Khan</title>
+      <link>http://localhost:1313/cricketers/zaheer-khan/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cricketers/zaheer-khan/index.html</guid>
+      <description>Profile of Zaheer Khan</description>
+    </item>
+  </channel>
+</rss>
