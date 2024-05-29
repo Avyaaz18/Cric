@@ -7,7 +7,7 @@ description: "Profile of Brian Lara"
 
 ## Player Profile
 
-![Brian Lara](/static/images/bl.jpg)
+![Brian Lara](/images/bl.jpg)
 
 <table>
   <tr>
