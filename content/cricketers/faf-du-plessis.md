@@ -7,7 +7,7 @@ description: "Profile of Faf du Plessis"
 
 ## Player Profile
 
-![Faf du Plessis](/static/images/fdp.jpg)
+![Faf du Plessis](/images/fdp.jpg)
 
 <table>
   <tr>
