@@ -62,81 +62,14 @@ Kohli was quite simply India's most powerful captain. Centre of every marketing 
 
 # Photo Gallery
 
-<style>
-    #gallery-container {
-      width: 100%;
-      overflow-x: hidden;
-      position: relative;
-    }
-  
-    #gallery {
-      display: flex;
-      gap: 10px;
-      transition: transform 0.3s ease-in-out;
-    }
-  
-    .gallery-item {
-      width: 30%;
-    }
-  
-    #prevBtn,
-    #nextBtn {
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
-      background-color: rgba(255, 255, 255, 0.5);
-      border: none;
-      cursor: pointer;
-      padding: 10px;
-      z-index: 1;
-      color: #333; /* Text color */
-      font-size: 20px; /* Adjust as needed */
-    }
-  
-    #prevBtn {
-      left: 0;
-    }
-  
-    #nextBtn {
-      right: 0;
-      background-color: rgba(0, 0, 0, 0.5); /* Background color */
-      color: white; /* Text color */
-    }
-  </style>
-  
-  <div id="gallery-container">
-    <button id="prevBtn" onclick="scrollGallery(-1)">❮</button>
-    <div id="gallery" style="transform: translateX(0);">
-      <img src="/images/image1.jpg" class="gallery-item" alt="Virat Kohli 1">
-      <img src="/images/image2.jpg" class="gallery-item" alt="Virat Kohli 2">
-      <img src="/images/image3.jpg" class="gallery-item" alt="Virat Kohli 3">
-      <img src="/images/image4.jpg" class="gallery-item" alt="Virat Kohli 4">
-      <img src="/images/image5.jpg" class="gallery-item" alt="Virat Kohli 5">
-      <img src="/images/image6.jpg" class="gallery-item" alt="Virat Kohli 6">
-      <img src="/images/image7.jpg" class="gallery-item" alt="Virat Kohli 7">
-      <img src="/images/image8.jpg" class="gallery-item" alt="Virat Kohli 8">
-    </div>
-    <button id="nextBtn" onclick="scrollGallery(1)">❯</button>
-  </div>
-  
-  <script>
-    let currentSlide = 0;
-    const totalSlides = document.querySelectorAll('.gallery-item').length;
-  
-    function scrollGallery(direction) {
-      const gallery = document.getElementById('gallery');
-      const galleryWidth = gallery.clientWidth;
-      const galleryItemWidth = document.querySelector('.gallery-item').clientWidth;
-      const maxScroll = (totalSlides - 3) * (galleryItemWidth + 10); // 10px gap
-      const scrollAmount = (galleryItemWidth + 10) * direction;
-      
-      currentSlide = Math.max(0, Math.min(currentSlide + direction, totalSlides - 3));
-      gallery.style.transform = `translateX(-${currentSlide * (galleryItemWidth + 10)}px)`;
-  
-      // Disable prev/next buttons if at the end or beginning
-      document.getElementById('prevBtn').disabled = currentSlide === 0;
-      document.getElementById('nextBtn').disabled = currentSlide === totalSlides - 3;
-    }
-  </script>
+![Vk 1](/images/image1.jpg)
+![Vk 2](/images/image2.jpg)
+![Vk 3](/images/image3.jpg)
+![Vk 4](/images/image4.jpg)
+![Vk 5](/images/image5.jpg)
+![Vk 6](/images/image6.jpg)
+![Vk 7](/images/image7.jpg)
+![Vk 8](/images/image8.jpg)
+
   
   
