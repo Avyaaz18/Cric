@@ -36,6 +36,7 @@ Here you can find information about various cricketers. Click on a name to view 
 - [Pat Cummins](./cricketers/pat-cummins)
 - [Quinton de Kock](./cricketers/quinton-de-kock)
 - [Ricky Ponting](./cricketers/ricky-ponting)
+- [Rohit Sharma](./cricketers/rohit-sharma)
 - [Sachin Tendulkar](./cricketers/sachin-tendulkar)
 - [Umar Gul](./cricketers/umar-gul)
 - [Viv Richards](./cricketers/viv-richards)
